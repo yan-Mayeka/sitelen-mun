@@ -2,19 +2,19 @@
 id = "sitelen mun"
 creator = ["jan Majeka"]
 features = [
-  "UCSUR"
+  "ucsur"
   "codepoints",
   "supports cartouches",
   "ligatures",
   "supports ku suli and a few more",
 ]
-filename = "sitelen-Mun"
+filename = "sitelen-Mun.oft"
 last_updated = "2024-11"
 license = "CC BY SA"
 name = "sitelen mun"
 style = "handwritten"
 version = "1.0.0"
-writing_system = "sitelen mun"
+writing_system = "logography"
 
 [links]
 fontfile = "https://github.com/yan-Mayeka/sitelen-mun/raw/main/sitelen-Mun.otf"
