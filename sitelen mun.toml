@@ -2,9 +2,10 @@
 id = "sitelen mun"
 creator = ["jan Majeka"]
 features = [
+  "UCSUR"
   "codepoints",
   "supports cartouches",
-  "latin ligatures",
+  "ligatures",
   "supports ku suli and a few more",
 ]
 filename = "sitelen-Mun"
